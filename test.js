@@ -7,4 +7,4 @@ var app = http.createServer(function (req, res) {
 
 app.listen(1337);
 console.log("Server running at http://localhost:1337/");
-
+console.log("lol");
